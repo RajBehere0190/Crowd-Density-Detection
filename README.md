@@ -33,6 +33,7 @@ OpenCV (cv2)
 NumPy (numpy)
 imutils
 
+
 ----Notes----
 Ensure the video file path (video.mp4) is correctly specified in the script.
 Experiment with different values of crowd_threshold and desired_fps to optimize performance for specific scenarios.

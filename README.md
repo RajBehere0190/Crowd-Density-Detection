@@ -2,7 +2,7 @@
 This Python script demonstrates real-time crowd detection using YOLOv3 (You Only Look Once) object detection. The system processes video input, detects people within frames, and calculates crowd counts. An alert is triggered if the crowd count exceeds a specified threshold.
 
 This Python script utilizes YOLOv3 (You Only Look Once) for real-time crowd detection in video streams. The system detects people within frames, counts the crowd, and can trigger alerts based on a specified threshold.
-**
+
 
 Key Features**
 Object Detection: Detects people in video frames using the YOLOv3 deep learning model.
@@ -37,7 +37,7 @@ NumPy (numpy)
 imutils
 
 
-----Notes----
+****-Notes-****
 Ensure the video file path (video.mp4) is correctly specified in the script.
 Experiment with different values of crowd_threshold and desired_fps to optimize performance for specific scenarios.
 This script can be extended and integrated into larger applications for crowd monitoring, security systems, or event management.

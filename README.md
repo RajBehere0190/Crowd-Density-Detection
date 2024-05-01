@@ -15,6 +15,7 @@ Modular Design: Organized into modular functions for clarity and ease of modific
 1.Setup:
 Ensure Python 3.x is installed.
 Install required packages using pip:
+
 ----->pip install opencv-python numpy imutils
 Download YOLOv3 pre-trained weights (yolov3.weights), configuration (yolov3.cfg), and COCO class labels (coco.names).
 

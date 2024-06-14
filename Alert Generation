@@ -2,7 +2,7 @@ To integrate Twilio for generating alerts (such as sending an SMS) when the crow
 
 Step 1: Install Twilio Python SDK
 First, install the Twilio Python SDK using pip if you haven't already:
---->pip install twilio
+use --> pip install twilio command.
 
 Step 2: Set Up Twilio Account
 If you don't have one already, sign up for a Twilio account at https://www.twilio.com/try-twilio and obtain your Account SID, Auth Token, and a Twilio phone number for sending SMS.

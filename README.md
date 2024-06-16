@@ -5,6 +5,7 @@ This Python script utilizes YOLOv3 (You Only Look Once) for real-time crowd dete
 
 
 **Key Features**
+
 Object Detection: Detects people in video frames using the YOLOv3 deep learning model.
 Crowd Counting: Counts the number of people detected in the scene.
 Alerting System: Generates alerts if the crowd count exceeds a predefined threshold.
